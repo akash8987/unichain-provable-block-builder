@@ -1,0 +1,10 @@
+{
+  "name": "unichain-provable-block-builder",
+  "version": "1.0.0",
+  "description": "Simulation framework for Unichain Flashblocks and low-latency pre-confirmations",
+  "main": "simulateFlashblocks.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
